@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👩🏻‍💻 Kauan Nascimento
 
-<!--
-**KauanNasciment0/KauanNasciment0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web | TI`**
 
-Here are some ideas to get you started:
+Me chamo **Kauan Nascimento**, sou um profissional da área de **Tecnologia da Informação**, com interesse em
+desenvolvimento de sistemas, suporte técnico e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência com **lógica de programação**, **sistemas web** e estou sempre buscando
+evoluir minhas habilidades técnicas e profissionais, unindo prática, estudo e curiosidade.
+
+---
+
+### 🚀 Foco atual de estudos e prática
+
+- 💻 Programação (**Ruby, PHP e fundamentos de Backend**)
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- 🛠️ Suporte técnico e resolução de problemas
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kauan-nascimento-567026315/" target="_blank">
+    <img
+      alt="LinkedIn"
+      title="Me siga no LinkedIn"
+      width="30px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+    />
+  </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img alt="Laravel" title="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img alt="Ruby" title="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg"/>
+  <img alt="Ruby on Rails" title="Ruby on Rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Tailwind" title="Tailwind CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+
+</p>
+
+#### ⚙️ DevOps & Ferramentas
+
+<p align="left">
+  <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+</p>
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=KauanNasciment0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanNasciment0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
